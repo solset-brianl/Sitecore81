@@ -5,3 +5,5 @@
 /Databases
 /Sandbox.Mvc/bin
 obj
+/Website/temp
+/Website/Views/Layouts
